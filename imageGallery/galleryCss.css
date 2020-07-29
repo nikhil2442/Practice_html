@@ -1,0 +1,12 @@
+h1{
+    border-bottom: 5px solid hotpink;
+    padding: 10px;
+    font-family: Goudy Old Style;	
+  }
+  
+img{
+	 width: 30%;
+	 float: left;
+	 margin: 1%;
+	 border: 3px solid black;
+   }  
